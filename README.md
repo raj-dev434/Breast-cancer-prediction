@@ -25,7 +25,7 @@ This project is a **Machine Learning-based Breast Cancer Diagnosis App** built w
 │── 📂 dataset             # Contains the dataset  
 │   ├── cancer-diagnosis.csv  
 
-
+To run this project you need to set conda enviornment .it's looks like (base) in your terminal
 
 ## Install Dependencies (Using pip)
 To install all required dependencies using `pip`, run:
