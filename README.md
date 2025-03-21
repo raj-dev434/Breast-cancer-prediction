@@ -28,13 +28,13 @@ This project is a **Machine Learning-based Breast Cancer Diagnosis App** built w
 
 
 install dependencies using
-pip install -r requirements.txt
+'pip install -r requirements.txt'
 
 Install Dependencies (Using Conda)  
 
-conda env create -f environment.yml
+'conda env create -f environment.yml'
 
-conda activate breast-cancer-diagnosis
+'conda activate breast-cancer-diagnosis'
 
 after installing the requirement file you can run with
 
