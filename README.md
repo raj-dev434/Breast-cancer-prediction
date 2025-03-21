@@ -17,14 +17,14 @@ This project is a **Machine Learning-based Breast Cancer Diagnosis App** built w
 
 ---
 
-## 📂 Project Structure
+📁 Breast-Cancer-Prediction  
+│── 📄 main.py             # Main application file  
+│── 📄 requirements.txt    # Required dependencies  
+│── 📄 environment.yml     # Conda environment file  
+│── 📄 .gitignore          # Files to exclude from version control  
+│── 📂 dataset             # Contains the dataset  
+│   ├── cancer-diagnosis.csv  
 
-📁 Breast-Cancer-Prediction │── 📄 main.py 
-│── 📄 requirements.txt 
-│── 📄 environment.yml
-│── 📄 .gitignore 
-│── 📂 dataset 
-│ ├── cancer-diagnosis.csv
 
 
 ## Install Dependencies (Using pip)
