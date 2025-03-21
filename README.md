@@ -19,22 +19,25 @@ This project is a **Machine Learning-based Breast Cancer Diagnosis App** built w
 
 ## 📂 Project Structure
 
-📁 Breast-Cancer-Prediction │── 📄 main.py # Main application file
-│── 📄 requirements.txt # Required dependencies
-│── 📄 environment.yml # Conda environment file
-│── 📄 .gitignore # Files to exclude from version control
-│── 📂 dataset # Contains the dataset
+📁 Breast-Cancer-Prediction │── 📄 main.py 
+│── 📄 requirements.txt 
+│── 📄 environment.yml
+│── 📄 .gitignore 
+│── 📂 dataset 
 │ ├── cancer-diagnosis.csv
 
 
-install dependencies using
-'pip install -r requirements.txt'
+## Install Dependencies (Using pip)
+To install all required dependencies using `pip`, run:
 
-Install Dependencies (Using Conda)  
+```bash
+pip install -r requirements.txt
 
-'conda env create -f environment.yml'
 
-'conda activate breast-cancer-diagnosis'
+conda env create -f environment.yml
+conda activate breast-cancer-diagnosis
+
+
 
 after installing the requirement file you can run with
 
